@@ -35,39 +35,45 @@ Clone the repository and perform basic Laravel setup to run the project
 
 ## Screenshots
 
-### Timeline
-### タイムライン
-<img src="screenshots/screenshot-timeline.jpg" alt="Timeline screen" width="600">
-Timeline view: Displays posts from followed users in chronological order
-タイムライン画面：フォロー中ユーザーの投稿が一覧表示されます
+### Timeline View / タイムライン画面
+<img src="screenshots/screenshot-timeline.jpg" alt="Timeline screen" width="800">
+EN:  
+
 The timeline shows the latest posts from users you follow. Each post includes an image, caption, like button, and comments—offering a core social media experience.
+
+**JP（日本語）：**  
 ユーザーがフォローしている他のユーザーの投稿が、最新順にタイムラインとして表示されます。画像・テキスト・「いいね」・コメント機能など、SNSの基本要素を一画面で確認できます。
 
-### Post Creation
-### 投稿作成画面
-<img src="screenshots/screenshot-create-post.png" alt="Timeline screen" width="600">
-Post Creation Page: Create posts with category, image, and body content
-投稿作成ページ：カテゴリー・画像・本文を含む投稿が可能
+### Post Creation View / 投稿作成画面
+<img src="screenshots/screenshot-create-post.png" alt="Timeline screen" width="800">
+EN:
+
 Logged-in users can create posts by entering a category, body content, and an image. Created posts can be viewed on the user's profile page or in the post list, and can be edited or deleted at any time.
+
+JP（日本語）：  
 ログインユーザーは、カテゴリー・本文・画像を入力して投稿を作成できます。作成した投稿は、マイページや投稿一覧画面で確認でき、後から編集や削除も可能です。
 
 
-### Profile
-### プロフィール画面
-<img src="screenshots/screenshot-profile.png" alt="Timeline screen" width="600">
-Profile screen: Shows user bio, posts, and follower stats
-プロフィール画面：投稿一覧と自己紹介、フォロワー情報を表示
+### Profile View / プロフィール画面
+<img src="screenshots/screenshot-profile.png" alt="Timeline screen" width="800">
+EN:
+
 The profile page displays the user's bio, number of posts, followers, and following. Users can view their post history and edit their profile details from this screen.
+
+JP（日本語）：  
 ユーザーのプロフィールでは、自己紹介文、投稿数、フォロワー数、フォロー数が表示され、自身の投稿の一覧も閲覧可能です。プロフィール編集にも対応しています。
 
-### Admin Dashboard
-### アドミン管理画面
-<img src="screenshots/screenshot-admin.png" alt="Timeline screen" width="600">
-Admin Panel: Centralized management of users, posts, and categories
-管理者画面：ユーザー・投稿・カテゴリーをまとめて管理
+### Admin Dashboard View / アドミン管理画面
+<img src="screenshots/screenshot-admin.png" alt="Timeline screen" width="800">
+EN:
+
 The admin dashboard allows administrators to view all users and posts, and toggle their visibility. Categories can also be added or edited. This interface is designed for managing user activity and moderating inappropriate content effectively.
+
+JP（日本語）：  
 管理者専用のダッシュボードから、ユーザーや投稿を一覧表示し、表示・非表示の切り替えが可能です。カテゴリーの追加・編集にも対応しており、不適切な投稿への対処や全体の管理に活用できます。
 
+
+> Japanese Description（以下は日本語での説明です）
 
 # Instagramクローンアプリ（Laravel製）
 
