@@ -53,6 +53,6 @@
         @enderror
         </div>
       </div>
-      <button type="submit" class="btn btn-warning px-5">Post</button>
+      <button type="submit" class="btn btn-warning px-5">Update</button>
     </form>
 @endsection
